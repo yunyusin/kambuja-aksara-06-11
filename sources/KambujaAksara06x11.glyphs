@@ -3330,6 +3330,8 @@ lookup repos_cons_vann_2 {
 	pos [@conj.be @conj.c4] @conj.cons.l1 @conj.cons.l1 @conj.cons.l1 k.empty [@vannayutti uni17C6]' <0 250 0 0>;
 	pos [@consonants] @conj.cons.l1 @conj.cons.l1 @conj.cons.l1 [uni17BF.l3] [@vannayutti uni17C6]' <0 300 0 0>;
 	pos [@conj.c5] @conj.cons.l1 @conj.cons.l1 @conj.cons.l1 k.empty [@vannayutti uni17C6]' <150 250 0 0>;
+
+	pos [@vannayutti uni17C6] [@vannayutti uni17C6]' <0 200 0 0>;
 } repos_cons_vann_2;
 
 lookup repos_cons_vann_3 {
@@ -3337,9 +3339,8 @@ lookup repos_cons_vann_3 {
 	ignore pos [uni178A_17B6 uni178D_17B6 uni1794_17B6 uni1795_17B6 uni1799_17B6 uni179A_17B6 uni179E_17B6 uni179F_17B6 uni17A0_17B6] [uni17CA uni17D1]';
 	pos @conj.b6 [uni17C9 uni17CA uni17CB uni17D1]' <-200 0 0 0>;
 	pos [uni17C9 uni17CB] [uni17B7 uni17B8 uni17BE uni17B9 uni17BA]' <0 200 0 0>;
-	pos [uni17CA uni17D1] [uni17B7 uni17B8 uni17BE]' <-50 200 0 0>;
+	pos [uni17C6 uni17C9 uni17CB uni17CC uni17CD uni17CE uni17CF uni17D0] [uni17C6 uni17C9 uni17CB uni17CC uni17CD uni17CE uni17CF uni17D0]' <200 0 0 0>;
 	pos [uni17CA uni17D1] [uni17B9 uni17BA]' <0 200 0 0>;
-	pos [uni17CA uni17D1] [uni17C6]' <0 150 0 0>;
 	pos [uni17CA uni17D1] [uni17BB uni17BC uni17BC] [uni17C6]' <0 150 0 0>;
 
     pos uni25CC [uni17B6] [@vannayutti uni17C6]' <100 300 0 0>;
